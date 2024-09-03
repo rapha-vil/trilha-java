@@ -9,9 +9,9 @@ public class Main {
        int idade = 37;
        String nome = "Rafaela Vilela";
        char sexo = 'F';
-
-
        Date  dataNascimento = new Date();
+
+
         System.out.println(id);
         System.out.println(idade);
         System.out.println(nome);
