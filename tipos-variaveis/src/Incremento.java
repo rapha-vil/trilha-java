@@ -4,5 +4,7 @@ public class Incremento {
         int numero = 6;
 
         System.out.println(++numero);
+
+        System.out.println(numero);
     }
 }
