@@ -27,6 +27,7 @@ public class SmartTv {
     }
 
     public void aumentarCanal(){
+        System.out.println("Canal: " + canal);
         canal++;
     }
 
