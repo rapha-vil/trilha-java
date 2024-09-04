@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6976409-391c-4606-a4fc-9ce80f44d403" name="Changes" comment="convertando para numero positivo">
-      <change afterPath="$PROJECT_DIR$/src/Incremento.java" afterDir="false" />
+    <list default="true" id="d6976409-391c-4606-a4fc-9ce80f44d403" name="Changes" comment="incrementando">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +134,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725406839739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="incrementando">
+      <option name="closed" value="true" />
+      <created>1725406989565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725406989565</updated>
+    </task>
+    <task id="LOCAL-00007" summary="incrementando">
+      <option name="closed" value="true" />
+      <created>1725407040379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725407040379</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exemplos de tipos de variveis" />
     <MESSAGE value="inclusao dataNascimento" />
     <MESSAGE value="convertando para numero positivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="convertando para numero positivo" />
+    <MESSAGE value="incrementando" />
+    <option name="LAST_COMMIT_MESSAGE" value="incrementando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
